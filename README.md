@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# codedamn - Disney clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Design for the project
 
-## Available Scripts
+## Hello developer
 
-In the project directory, you can run:
+This is one of the many projects available on codedamn to reinforce your learning by building. If you want to become a frontend developer and learn by practicing, feel free to attempt this challenge. Feel free to check out the codedamn frontend web developer learning path to learn more about how to become an awesome frontend developer.
 
-### `yarn start`
+## Instructions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Your challenge is to build out this project and get it looking as close to the design as possible.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-### `yarn test`
+Your project should:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Be responsive for desktop and mobile phones
+- Have minimum functionalities and effects working
 
-### `yarn build`
+Want some support on the challenge? Join our discord community and ask questions in the #general channel.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Where to find everything
+Your task is to build out the project as per the provided screenshots. You will find both a mobile and a desktop version of the design.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The designs are in image formats (sketch and figma designs coming soon).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You will find all the required assets in the `/public/assets folder`. These include images, fonts, etc.
 
-### `yarn eject`
+There is also a `style-guide.html` file containing the information you'll need, such as color palette and font names. Make sure to open this in the browser to see the contents.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Submitting solution
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Submit your solution on the platform for the rest of the community to see. Find this project on codedamn projects page for tips on how to do this.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Send feedback!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please visit codedamn feedback page
